@@ -1,0 +1,451 @@
+ .one 
+{    
+    margin-bottom: 50px;
+    width: 100%;
+    height: 630px;
+    background: url(../images/01.jpg) no-repeat fixed;
+    color: antiquewhite;
+    background-size: cover;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 16px 30px;
+    font-size: 18px;
+    line-height: 20px;
+    color: #74100F;
+    font-weight: 700;
+    margin-left: -15px;
+}
+.navbar-nav>li>a {
+    padding-top: 36px;
+    padding-bottom: 21px;
+    color: #ffffff;
+    margin-left: 22px;
+}
+.navbar-nav>li>a:hover{
+    background: none;
+    color:#ffffff;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #74100F;
+}
+/* start section two */
+.two .container
+{
+    margin-bottom: 50px;
+}
+.two .container h3{
+    color: #991316;
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.two .container p{
+    font-family: Nunito;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 300;
+    padding-bottom: 20px
+    ;
+}
+/* ens section two */
+/* start section three */
+.three{
+    height: 400px;
+    background-color: #eee;
+    font-family: Nunito;
+}
+.three .container-fluid
+{
+   
+    font-family:Nunito;
+    overflow: hidden;
+   
+}
+
+.three .container-fluid i
+{
+    padding-top:60px ;
+    color: #991316;
+    font-size: 20px;
+}
+.three .container-fluid h3
+{
+    padding-bottom: 15px;
+    color: #000000;
+}
+.three .container-fluid p{
+    color: #8f8f8f;
+    font-size: 20px;
+}
+.three .container-fluid button
+{
+    margin-top: 25px;
+    margin-bottom: 60px;
+    border: 3px solid #991316;
+    width: 190px;
+    height: 55px;
+    color: #991316;
+    font-weight:bold;
+    background-color: #ffffff;
+}
+.three .container-fluid button:hover
+{
+    border: 3px solid #fff;
+    color: #fff;
+    background-color: #991316;
+}
+/* end section three */
+/* start section four */
+.four{
+    margin-bottom: 0px;  
+    background-color: #eee;
+    overflow: hidden;
+}
+.four .containe-fluid .write {
+    
+    color: #8f8f8f;
+    padding-top: 65px;
+    padding-left: 65px;
+    font-size: 21px;
+    line-height: 1.7;
+}
+.write h2{
+    color: #000000;
+}
+.four .img
+{
+    width: 100%;
+    height: 500px;
+    background: url(../images/04.jpg) no-repeat center center fixed;
+}
+/* end section four */
+/* start section five */
+.five{
+    margin-top: 0px;
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.five .containe-fluid
+{
+    margin-top:-50px;
+    background-color: #eee;
+}
+.five .containe-fluid .img {
+    width: 100%;
+    height: 500px;
+    background: url(../images/05.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.five .containe-fluid .write {
+    color: #8f8f8f;
+    padding-top: 125px;
+    padding-left: 65px;
+    font-size: 21px;
+    line-height: 1.7;
+}
+.write h2 {
+    color: #000000;
+    font-family: Nunito;
+}
+/* end section five */
+/* start section six */
+.six {
+    overflow: hidden;
+    margin-top: -50px;
+    background-color: #eee;
+}
+
+.six .containe-fluid .write {
+    color: #8f8f8f;
+    padding-top: 140px;
+    padding-left: 65px;
+    font-size: 21px;
+    line-height: 1.7; 
+}
+.write h2 {
+    color: #000000;
+    font-family: Nunito;
+}
+
+.six .img {
+    width: 100%;
+    height: 500px;
+    background: url(../images/06.jpg) no-repeat center center fixed;
+}
+
+/* end section six */
+/* start section seven */
+.seven {
+    overflow: hidden;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    height: 500px;
+    width: 100%;
+}
+
+.seven .containe-fluid {
+    margin-top: -50px;
+    background-color: #eee;
+    margin-bottom: 50px;
+}
+
+.seven .containe-fluid .img {
+    width: 100%;
+    height: 500px;
+    background: url(../images/07.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.seven .containe-fluid .write
+{
+    color: #8f8f8f;
+    padding-top: 170px;
+    padding-left: 65px;
+    font-size: 21px;
+    line-height: 1.7;
+}
+.write h2 {
+    color: #000000;
+    font-family: Nunito;
+}
+/* end section seven */
+/* start section eight */
+.eight {
+    overflow: hidden;
+    margin-bottom: 50px;
+    margin-top: -100px;
+    background-color: #eee;
+}
+
+.eight .containe-fluid .write
+{
+    color: #8f8f8f;
+    padding-top: 140px;
+    padding-left: 135px;
+    font-size: 21px;
+    line-height: 1.7;
+}
+
+.write h2 {
+    font-size: 40px;
+    color: #000000;
+    font-family: Nunito;
+}
+.write p
+{
+font-size: 65px;
+}
+.write button
+{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: 3px solid #d10a11;
+    width: 140px;
+    background:#d10a11;
+    height: 50px;
+    color: #fff;
+    border-radius: 25%;
+    margin-top: 15px;
+}
+.eight .img {
+    width: 100%;
+    height: 500px;
+    background: url(../images/08.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+/* end section eight */
+/* start section nine */
+.nine
+{
+    overflow: hidden;
+    height: 500px;
+    width: 100%;
+    margin-top: -50px;
+    margin-bottom: 30px;
+    background: url(../images/09.jpg) no-repeat center center fixed;
+    font-family: Nunito;
+}
+.nine .layout
+{
+    background-color: rgba(2, 2, 2, 0.07);
+    min-height: 500px;
+    width: 100%;
+}
+.nine .layout .container-fluid h4
+{   
+    color: #c0bdb9;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 42px;
+    padding-bottom: 10px;
+}
+.lead
+{
+    font-size: 45px;
+    color: #000000;
+}
+.nine .layout .container-fluid h1
+{
+    font-size: 92px;
+    font-weight: bold;
+    color: #000000;
+    margin-left: -25px;
+}
+/* end section nine */
+/* start section ten */
+.ten
+{
+    height: 700px;
+    width: 100%;
+    font-family: Nunito;
+}
+.ten .container h1
+{
+    font-size: 50px;
+    color: #d71921;
+    line-height: 57px;
+    text-align: center;
+}
+/* end section ten */
+/* start section eleven */
+.eleven
+{
+    margin-bottom: 50px;
+    height: 400px;
+    width: 100%;
+    background: url(../images/010.png) no-repeat center center ;
+    background-size: cover;
+}
+
+.eleven .lay_out
+{
+    background-color: rgba(2, 2, 2, 0.3);
+    min-height: 400px;
+    width: 100%;
+}
+.eleven .container-fluid h1
+{
+    font-size: 52px;
+    padding-top: 133px;
+    color: #fff;
+    font-family: 'Nunito';
+    line-height: 62px;
+}
+.eleven  p
+{
+text-align: center;
+font-size: 18px;
+font-family: 'Nunito';
+font-weight: 500;
+line-height: 26px;
+color: #fff;
+}
+/* end section eleven */
+/* start section twelve */
+.twelve
+{
+    height:600px;
+    margin-bottom: 60px;
+}
+
+.twelve .ss {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 60px;
+}
+.twelve h1
+{ 
+    font-size: 52px;
+    font-weight: 300px;
+    font-family: Nunito;
+    line-height: 52px;        
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 35px;
+    color: #d10a11;
+}
+.twelve .tt
+{
+background-color: #eee;
+}
+
+.twelve .tt h5 
+{
+    font-size: 21px;
+}
+input
+{
+    width: 90px;
+    text-align: center;
+}
+.twelve .qq {
+    background-color: #eee;
+}
+.twelve .oo 
+{
+    padding-left: 45px;
+}
+.twelve .pp 
+{
+    padding-left: 45px;
+}
+.btn-danger 
+{
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    border-radius: 21px;
+    margin-bottom: 30px;
+    margin-top: 35px;
+    width: 126px;
+    height: 42px;
+}
+.twelve .ee  
+{
+    padding-top: 65px;
+    padding-left: 37px;
+    padding-bottom: 65px;
+    
+}
+.twelve .ee h4
+{
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.twelve .ee h5 
+{
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/* end section twelve */
+/* start section threteen */
+.thrteen
+{
+    height: 300px;
+    width: 100%;
+    background-color: #000000;
+    color: #fff;
+    margin-top: 75px;
+}
+.thrteen .container-fliud
+{
+    padding-top: 100px;
+    padding-left: 100px;
+    line-height: 1.9;
+    font-size: 16px;
+}
+.thrteen .container-fliud ul li a
+{
+    color: #fff;
+    text-decoration: none;
+}
+/* end section threteen */

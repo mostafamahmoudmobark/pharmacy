@@ -1,0 +1,93 @@
+/* form zero to  mobile screen */
+@media(max-width:767px)
+{
+.two .container h3 {
+        color: #991316;
+        text-align: center;
+        padding-bottom: 15px;
+        font-weight: bold;
+        font-size: 25px;
+        margin-top: 34px;
+    }
+           .three {
+               height: 349px;
+               background-color: #eee;
+               margin-bottom: 450px;
+               font-family: Nunito;
+           }
+                .three .container-fluid {
+                    background-color: #eee;
+                    margin-bottom: 82px;
+                    height: 799px;
+                    font-family: 'Nunito';
+                    overflow: hidden;
+                }
+                .three .container-fluid i {
+                    padding-top: 35px;
+                    color: #991316;
+                    font-size: 20px;
+                }
+.four .containe-fluid .write 
+                {
+    color: #8f8f8f;
+    padding-left: 10px;
+    padding-top: 22px;
+    font-size: 18px;
+    line-height: 1.7;
+    text-align: center;
+    margin-bottom: 40px;
+            }
+.four .img {
+    width: 100%;
+    height: 500px;
+    background: url(../images/04.jpg) no-repeat center center fixed;
+    background-size: cover;
+            }
+.six .containe-fluid .write 
+            {
+    padding-top: 4px;
+    padding-bottom: 50px;
+    padding-left: 1px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.7;
+    color: #8f8f8f;
+            }  
+.five .containe-fluid .img 
+           {
+    width: 100%;
+    height: 500px;
+    background: url(../images/05.png) no-repeat center center fixed;
+    background-size: cover;
+           } 
+.six {
+    overflow: hidden;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    background-color: #eee;
+       }
+.six .img  
+            {
+    width: 100%;
+    height: 500px;
+    background: url(../images/06.jpg) no-repeat center center fixed;
+    background-size: cover;
+            }
+.eight .img 
+           {
+    width: 100%; 
+    height: 500px;
+    background: url(../images/08.jpg) no-repeat center center fixed;
+    background-size: cover;
+            }
+.eight .containe-fluid .write 
+           {
+    padding-bottom: 40px;
+    color: #8f8f8f;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 17px;
+    font-size: 21px;
+    line-height: 1.7;          
+          }
+        }
